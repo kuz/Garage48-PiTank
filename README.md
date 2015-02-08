@@ -1,10 +1,10 @@
 # Garage48-PiTank
 
 #### On Start-up
-sudo service udhcpd start
-cd Tank
-python camserver.py
-python tcpserver.py
+sudo service udhcpd start  
+cd Tank  
+python camserver.py  
+python tcpserver.py  
 
 #### Configure Raspberry Pi as an Access Point
 http://elinux.org/RPI-Wireless-Hotspot
