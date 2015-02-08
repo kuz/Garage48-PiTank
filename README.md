@@ -2,6 +2,7 @@
 
 #### On Start-up
 sudo service udhcpd start  
+sudo service ssh start  
 cd Tank  
 python camserver.py  
 python tcpserver.py  
