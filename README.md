@@ -1,15 +1,16 @@
-# Garage48-PiTank
+# Garage48-PiTank is ...
+* 3D prinatable,
+* Raspberry Pi 2 based,
+* Kinect video streaming (will enable depth sensing soon),
+* Mobile phone controlled
+####tank!
 
-#### On Start-up
-sudo service udhcpd start  
-sudo service ssh start  
-cd Tank  
-python camserver.py  
-python tcpserver.py  
+[gif-converted actual video HERE]
+which was built during [Garage48](www.garage48.org) event. [Garage logo HERE]
 
-#### Configure Raspberry Pi as an Access Point
-http://elinux.org/RPI-Wireless-Hotspot
+### 3D Files
 
-#### Read depth data from Kinect
-* https://github.com/xxorde/librekinect -- did not work :( (kernel 3.18)
-* https://github.com/openkinect/libfreenect & https://github.com/amiller/libfreenect-goodies
+### Raspberry Pi 2 image
+
+### Mobile phone apps
+Android: 
