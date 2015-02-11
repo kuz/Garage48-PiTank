@@ -7,8 +7,7 @@
 ![Alt text](/Docs/images/pitank.png)
 ###...tank!
 
-[gif-converted actual video HERE]  
-which was built during [Garage48](www.garage48.org) event. [Garage logo HERE]
+which was built during [Garage48](www.garage48.org) event.
 
 ### 3D Files
 Download here [http://www.thingiverse.com/thing:673920](http://www.thingiverse.com/thing:673920) and print them out.
