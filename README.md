@@ -21,7 +21,7 @@ iOS: not yet :)
 Windows Phone: not yet :)  
 
 ### Team
-[Kristjan Järvan](http://ee.linkedin.com/pub/kristjan-järvan/5b/9b6/255) -- vision, marketing
+[Kristjan Järvan](http://ee.linkedin.com/pub/kristjan-järvan/5b/9b6/255) -- vision, marketing  
 [Ilya Kuzovkin](http://www.ikuz.eu/cv)  -- software  
 [Madis Kaasik](http://ee.linkedin.com/pub/madis-kaasik/b1/10a/373/en)  -- mechanics  
 [Ulf Anso](http://ee.linkedin.com/pub/ulf-anso/69/27/942)  -- electronics  
