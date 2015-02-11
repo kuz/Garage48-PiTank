@@ -4,7 +4,7 @@
 * Kinect video streaming (will enable depth sensing soon),
 * Mobile phone controlled
 
-![Alt text](/path/to/img.jpg)
+![Alt text](/Docs/images/pitank.png)
 ####tank!
 
 [gif-converted actual video HERE]  
