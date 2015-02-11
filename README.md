@@ -15,7 +15,7 @@ Download here [http://www.thingiverse.com/thing:673920](http://www.thingiverse.c
 ### Raspberry Pi 2 image
 
 ### Mobile phone binaries
-Android:
-iOS: not yet :)
-Windows Phone: not yet :)
+Android:  
+iOS: not yet :)  
+Windows Phone: not yet :)  
 
