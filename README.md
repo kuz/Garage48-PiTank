@@ -3,7 +3,7 @@
 * Raspberry Pi 2 based,
 * Kinect video streaming (will enable depth sensing soon),
 * Mobile phone controlled
-
+![Alt text](/path/to/img.jpg)
 ####tank!
 
 [gif-converted actual video HERE]  
