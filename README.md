@@ -10,8 +10,9 @@
 which was built during [Garage48](www.garage48.org) event. [Garage logo HERE]
 
 ### 3D Files
+Download here [http://www.thingiverse.com/thing:673920](http://www.thingiverse.com/thing:673920) and print them out.
 
 ### Raspberry Pi 2 image
 
 ### Mobile phone apps
-Android: 
+
