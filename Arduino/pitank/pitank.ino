@@ -52,13 +52,13 @@ void loop()//Loop that always happens
     if (inByte == '1')//Turn left
     {
       //To be sure, re-set engine directions
-      digitalWrite(IN1,LOW);
-      digitalWrite(IN2,HIGH);
+      digitalWrite(IN1,HIGH);
+      digitalWrite(IN2,LOW);
       digitalWrite(IN3,HIGH);
       digitalWrite(IN4,LOW);
      
       Serial.println("Turning left!");//Say out what You're doing
-      analogWrite(ENA,150);
+      analogWrite(ENA,190);
       analogWrite(ENB,0);
     }
     if (inByte == '2')//Turn right
@@ -66,37 +66,37 @@ void loop()//Loop that always happens
       //To be sure, re-set engine directions
       digitalWrite(IN1,LOW);
       digitalWrite(IN2,HIGH);//setting motorA's directon
-      digitalWrite(IN3,HIGH);
-      digitalWrite(IN4,LOW);
+      digitalWrite(IN3,LOW);
+      digitalWrite(IN4,HIGH);
      
       Serial.println("Turning right!");//Say out what You're doing
-      analogWrite(ENB,150);
       analogWrite(ENA,0);
+      analogWrite(ENB,190);
     }
     if (inByte == '3')
     {
       //To be sure, re-set engine directions
-      digitalWrite(IN1,LOW);
-      digitalWrite(IN2,HIGH);
-      digitalWrite(IN3,HIGH);
-      digitalWrite(IN4,LOW);
-     
-      Serial.println("Driving forward!");//Say out what You're doing
-      analogWrite(ENA,150);
-      analogWrite(ENB,150);
-    }
- 
-    if (inByte == '4')
-    {
-      //Set the engines to work backwards
       digitalWrite(IN1,HIGH);
       digitalWrite(IN2,LOW);
       digitalWrite(IN3,LOW);
       digitalWrite(IN4,HIGH);
      
+      Serial.println("Driving forward!");//Say out what You're doing
+      analogWrite(ENA,170);
+      analogWrite(ENB,170);
+    }
+ 
+    if (inByte == '4')
+    {
+      //Set the engines to work backwards
+      digitalWrite(IN1,LOW);
+      digitalWrite(IN2,HIGH);
+      digitalWrite(IN3,HIGH);
+      digitalWrite(IN4,LOW);
+     
       Serial.println("Driving backwards!");//Say out what You're doing
-      analogWrite(ENA,150);
-      analogWrite(ENB,150);
+      analogWrite(ENA,170);
+      analogWrite(ENB,170);
     }
  
     if (inByte == '9')//Input turns lazer
