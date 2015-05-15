@@ -16,9 +16,9 @@ Download here [http://www.thingiverse.com/thing:673920](http://www.thingiverse.c
 Download from [http://ikuz.eu/pitank/pi2.img](http://ikuz.eu/pitank/pi2.img) (7.9gb) and flush it to 8gb SD card (yes, we will make it smaller :)).
 
 ### Mobile phone binaries
-Android: [http://ikuz.eu/pitank/PiTank.apk](http://ikuz.eu/pitank/PiTank.apk) not in appstore yet and we need a designer! :)  
-iOS: not yet :)  
-Windows Phone: not yet :)  
+Android: [http://ikuz.eu/pitank/PiTank.apk](http://ikuz.eu/pitank/PiTank.apk) not in appstore yet and we need a designer!  
+iOS: not yet  
+Windows Phone: not yet  
 
 ### Team
 [Kristjan Järvan](http://ee.linkedin.com/pub/kristjan-järvan/5b/9b6/255) -- vision, marketing  
